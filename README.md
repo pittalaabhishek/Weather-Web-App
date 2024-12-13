@@ -1,12 +1,17 @@
 Weather App
 
+
+
 This is a simple React application that fetches weather data using React Query and displays the weather conditions, temperature, and icon for a given city. Users can enter the name of a city to get real-time weather updates.
 
 Features
 
 1.Fetch weather data using React Query.
+
 2.Display city name, weather description, and temperature.
+
 3.Show weather condition icons.
+
 4.Handle API errors and loading states.
 
 Technologies Used
