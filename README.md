@@ -1,5 +1,6 @@
 Weather App
 
+<img width="1470" alt="Screenshot 2024-12-13 at 3 32 08 PM" src="https://github.com/user-attachments/assets/e9d5e97b-1f4a-4166-afa6-54ee75a2d900" />
 
 
 This is a simple React application that fetches weather data using React Query and displays the weather conditions, temperature, and icon for a given city. Users can enter the name of a city to get real-time weather updates.
